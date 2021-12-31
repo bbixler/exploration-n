@@ -15,7 +15,7 @@ export const links: LinksFunction = () => {
 };
 
 export const meta: MetaFunction = () => {
-  return { title: "New Remix App" };
+  return { title: "Netlify + Remix" };
 };
 
 export default function App() {
