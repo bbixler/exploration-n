@@ -379,10 +379,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 [hidden] {
   display: none;
 }
-.text-3xl {
-  font-size: 1.875rem;
-  line-height: 2.25rem;
-}
 .text-5xl {
   font-size: 3rem;
   line-height: 1;
@@ -390,15 +386,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 .font-bold {
   font-weight: 700;
 }
-.text-red-800 {
-  --tw-text-opacity: 1;
-  color: rgb(153 27 27 / var(--tw-text-opacity));
-}
 .text-blue-800 {
   --tw-text-opacity: 1;
   color: rgb(30 64 175 / var(--tw-text-opacity));
-}
-.underline {
-  -webkit-text-decoration-line: underline;
-          text-decoration-line: underline;
 }
